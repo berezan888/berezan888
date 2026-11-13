@@ -15,4 +15,4 @@ Python · SQL · FastAPI · Docker · PostgreSQL · AWS RDS · Azure · scikit-l
 - Working on a data pipeline project with public cancer datasets (ETL, PostgreSQL, Docker)
 - Looking for student / junior roles in data or cloud engineering
 
-📫 [LinkedIn](www.linkedin.com/in/anna-berezan-b16a63309)
+📫 [LinkedIn](https://www.linkedin.com/in/anna-berezan-b16a63309/)
